@@ -1,19 +1,14 @@
 ---
 name: Ambassador
 x-slug: ambassador
-description: Ambassador empowers businesses to increase revenue by driving and managing
-  more referrals. Our easy-to-use referral marketing software automates the process
-  of enrolling, tracking, rewarding, and managing loyal customers, affiliates, partners,
-  and fans. This allows B2B companies, consumer brands, and agencies to quickly build,
-  scale, and optimize referral marketing programs. Ambassador???s open API also seamlessly
-  integrates with existing technologies, enabling companies to create a custom experience
-  that aligns with their brand.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ambassador-logo.png
+description: Ambassador is the world-leading referral marketing software, running
+  todays most popular referral programs. Visit us to learn, buy, and get support.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/985-ambassador.jpg
 x-kinRank: "8"
-x-alexaRank: ""
+x-alexaRank: "80608"
 tags: Ambassador
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/ambassador/master/_listings/ambassador/apis.md
 specificationVersion: "0.14"
 apis: []
@@ -22,6 +17,8 @@ x-common:
   url: http://blog.getambassador.com/
 - type: x-blog-rss
   url: http://blog.getambassador.com/feed/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/ambassador
 - type: x-developer
   url: https://getambassador.com/api/
 - type: x-email
